@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vetFisio/static/js/main.ab198369.js",
+    "main.js": "/vetFisio/static/js/main.f9e27110.js",
     "index.html": "/vetFisio/index.html",
-    "main.ab198369.js.map": "/vetFisio/static/js/main.ab198369.js.map"
+    "main.f9e27110.js.map": "/vetFisio/static/js/main.f9e27110.js.map"
   },
   "entrypoints": [
-    "static/js/main.ab198369.js"
+    "static/js/main.f9e27110.js"
   ]
 }
